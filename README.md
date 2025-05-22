@@ -31,4 +31,4 @@
 
 O site captura perfeitamente a atmosfera ancestral e mística que você buscava, combinando funcionalidade moderna com estética vintage. Todos os elementos são demonstrativos e funcionais, prontos para impressionar seus clientes potenciais!
 
-- Link para acessar o site:
+- Link para acessar o site: https://vitornoe.github.io/Sonora_ancestral/
